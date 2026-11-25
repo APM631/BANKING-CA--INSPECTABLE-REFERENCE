@@ -11,7 +11,7 @@ Simulated banking chat agent where the user inspects the system's reasoning and 
 - No AI model runs inside the system yet. 
 
 ## Running or inspecting the work
-No setup needed. Open the files in `lab2/` and `lab3/`: start with `lab3/01_SPEC.md`, then the PNG diagrams. The report is in `report/`.
+No setup needed. Open the files in 'lab 2' and `lab3_pack`: start with `ass.01_2845031`, which is the literature review. Then the PNG diagrams. The project report is `ass.02_2845031`.
 
 ## Development record
 - **Lab 1 / Assignment 1:** problem and literature review (gap: no system lets the user inspect reasoning and choose recovery).
@@ -19,4 +19,4 @@ No setup needed. Open the files in `lab2/` and `lab3/`: start with `lab3/01_SPEC
 - **Lab 3:** simulated a standard and a problem request, found the CA ignored account data, added a validation step and a clearer message, then reran the test.
 
 ## AI assistance
-I used Claude to help draft the README text and reorganize report. 
+I used Claude to help draft the README text and reorganize and improve grammar fluency of A2 project report. 
